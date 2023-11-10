@@ -1,0 +1,483 @@
+[
+  {
+    "login": "danielbayerlein",
+    "reposCount": 33,
+    "languageTotals": {
+      "TypeScript": 1,
+      "JavaScript": 17,
+      "Shell": 4,
+      "Dockerfile": 1,
+      "Vim Script": 1,
+      "HTML": 9,
+      "CSS": 8,
+      "CoffeeScript": 5,
+      "Ruby": 7,
+      "Gherkin": 1,
+      "Python": 1
+    }
+  },
+  {
+    "login": "danielkocot",
+    "reposCount": 22,
+    "languageTotals": {
+      "Ruby": 2,
+      "HTML": 4,
+      "TypeScript": 1,
+      "CSS": 3,
+      "Groovy": 2,
+      "Shell": 2,
+      "Batchfile": 1,
+      "JavaScript": 2,
+      "Dockerfile": 2,
+      "SCSS": 1,
+      "Makefile": 1,
+      "Java": 2,
+      "FreeMarker": 1,
+      "Python": 2,
+      "Mako": 1,
+      "C": 1,
+      "C++": 1
+    }
+  },
+  {
+    "login": "danielschleindlsperger",
+    "reposCount": 33,
+    "languageTotals": {
+      "Clojure": 9,
+      "Python": 1,
+      "TypeScript": 10,
+      "HTML": 15,
+      "CSS": 12,
+      "JavaScript": 22,
+      "Shell": 7,
+      "Dockerfile": 5,
+      "PLpgSQL": 1,
+      "Emacs Lisp": 1,
+      "PHP": 2,
+      "Vue": 2,
+      "Java": 1,
+      "TSQL": 1,
+      "Batchfile": 1,
+      "ApacheConf": 1
+    }
+  },
+  {
+    "login": "denniseffing",
+    "reposCount": 15,
+    "languageTotals": {
+      "C++": 3,
+      "TypeScript": 4,
+      "JavaScript": 3,
+      "HTML": 5,
+      "CSS": 3,
+      "C": 2,
+      "Go": 1,
+      "Java": 2,
+      "Dockerfile": 4,
+      "Shell": 2,
+      "Kotlin": 3,
+      "Lua": 1,
+      "CMake": 1,
+      "Perl": 1,
+      "Perl 6": 1
+    }
+  },
+  {
+    "login": "devshred",
+    "reposCount": 35,
+    "languageTotals": {
+      "Java": 21,
+      "JavaScript": 2,
+      "HTML": 4,
+      "Kotlin": 7,
+      "Dockerfile": 11,
+      "Shell": 9,
+      "Makefile": 1,
+      "Go": 2,
+      "PLpgSQL": 1,
+      "Vue": 1,
+      "TypeScript": 1,
+      "CSS": 1
+    }
+  },
+  {
+    "login": "dickerpulli",
+    "reposCount": 26,
+    "languageTotals": {
+      "Python": 2,
+      "HTML": 7,
+      "Java": 14,
+      "NSIS": 1,
+      "CSS": 7,
+      "TeX": 2,
+      "Shell": 3,
+      "PHP": 1,
+      "JavaScript": 9,
+      "Dockerfile": 1,
+      "TypeScript": 2,
+      "Objective-C": 1,
+      "Procfile": 1
+    }
+  },
+  {
+    "login": "dvdgsng",
+    "reposCount": 1,
+    "languageTotals": {
+      "Python": 1
+    }
+  },
+  {
+    "login": "erikpetzold",
+    "reposCount": 3,
+    "languageTotals": {
+      "Java": 3
+    }
+  },
+  {
+    "login": "F43nd1r",
+    "reposCount": 45,
+    "languageTotals": {
+      "Kotlin": 17,
+      "TypeScript": 4,
+      "Groovy": 3,
+      "JavaScript": 7,
+      "Dockerfile": 3,
+      "HTML": 6,
+      "Shell": 7,
+      "CSS": 4,
+      "Java": 20,
+      "TeX": 1,
+      "C#": 1,
+      "C": 1
+    }
+  },
+  {
+    "login": "feltenj",
+    "reposCount": 0,
+    "languageTotals": {}
+  },
+  {
+    "login": "goekhanm",
+    "reposCount": 0,
+    "languageTotals": {}
+  },
+  {
+    "login": "hw-cc",
+    "reposCount": 0,
+    "languageTotals": {}
+  },
+  {
+    "login": "JonasGroeger",
+    "reposCount": 37,
+    "languageTotals": {
+      "C++": 1,
+      "C": 1,
+      "CMake": 1,
+      "Shell": 16,
+      "Java": 5,
+      "HTML": 6,
+      "CSS": 5,
+      "JavaScript": 8,
+      "Python": 17,
+      "Vue": 2,
+      "Dockerfile": 3,
+      "PHP": 1,
+      "Makefile": 3,
+      "ApacheConf": 1,
+      "TeX": 2,
+      "MATLAB": 1,
+      "PowerShell": 1,
+      "Scala": 1,
+      "TypeScript": 1,
+      "Batchfile": 1
+    }
+  },
+  {
+    "login": "jonashackt",
+    "reposCount": 113,
+    "languageTotals": {
+      "Shell": 11,
+      "Ruby": 4,
+      "Batchfile": 3,
+      "Dockerfile": 16,
+      "Python": 10,
+      "PowerShell": 3,
+      "HTML": 9,
+      "TypeScript": 9,
+      "Java": 41,
+      "JavaScript": 5,
+      "CSS": 2,
+      "Go": 2,
+      "C++": 4,
+      "CMake": 3,
+      "Dart": 3,
+      "C": 4,
+      "Swift": 3,
+      "Kotlin": 4,
+      "Objective-C": 3,
+      "Procfile": 2,
+      "Smarty": 1,
+      "Jinja": 3,
+      "Vue": 2,
+      "PHP": 2,
+      "TSQL": 1,
+      "Visual Basic": 1
+    }
+  },
+  {
+    "login": "ls2pw",
+    "reposCount": 1,
+    "languageTotals": {}
+  },
+  {
+    "login": "lukas-reining",
+    "reposCount": 14,
+    "languageTotals": {
+      "F#": 1,
+      "JavaScript": 6,
+      "TypeScript": 6,
+      "Dart": 5,
+      "Ruby": 5,
+      "Swift": 4,
+      "Kotlin": 4,
+      "Objective-C": 6,
+      "C++": 2,
+      "HTML": 4,
+      "Java": 1,
+      "Shell": 4,
+      "HCL": 3,
+      "Smarty": 1,
+      "Dockerfile": 1,
+      "C": 2,
+      "Python": 1,
+      "Makefile": 1,
+      "CSS": 2,
+      "CMake": 2
+    }
+  },
+  {
+    "login": "maiksensi",
+    "reposCount": 14,
+    "languageTotals": {
+      "Shell": 2,
+      "Emacs Lisp": 1,
+      "Python": 1,
+      "Makefile": 1,
+      "JavaScript": 7,
+      "TypeScript": 1,
+      "HTML": 2,
+      "CSS": 2,
+      "Nix": 1,
+      "Scala": 1,
+      "Java": 1
+    }
+  },
+  {
+    "login": "mkresse",
+    "reposCount": 2,
+    "languageTotals": {
+      "JavaScript": 1,
+      "HTML": 1,
+      "CSS": 1,
+      "Lua": 1,
+      "Makefile": 1
+    }
+  },
+  {
+    "login": "mniehoff",
+    "reposCount": 7,
+    "languageTotals": {
+      "Dockerfile": 1,
+      "Shell": 3,
+      "HTML": 1,
+      "Scala": 4,
+      "Java": 1
+    }
+  },
+  {
+    "login": "PSanetra",
+    "reposCount": 16,
+    "languageTotals": {
+      "TypeScript": 4,
+      "JavaScript": 6,
+      "Go": 3,
+      "HTML": 3,
+      "CSS": 1,
+      "Dockerfile": 6,
+      "Shell": 4,
+      "Java": 2,
+      "Batchfile": 1,
+      "Smarty": 1,
+      "C#": 1,
+      "SCSS": 1
+    }
+  },
+  {
+    "login": "reitzig",
+    "reposCount": 35,
+    "languageTotals": {
+      "Scala": 1,
+      "Java": 6,
+      "Ruby": 12,
+      "Shell": 13,
+      "JavaScript": 2,
+      "Kotlin": 5,
+      "PHP": 2,
+      "Go": 4,
+      "Gherkin": 2,
+      "Swift": 1,
+      "C++": 1,
+      "C": 1,
+      "HTML": 5,
+      "R": 2,
+      "TeX": 4,
+      "Dockerfile": 3,
+      "Python": 1,
+      "Crystal": 1,
+      "CSS": 3
+    }
+  },
+  {
+    "login": "renetalk",
+    "reposCount": 2,
+    "languageTotals": {
+      "JavaScript": 2,
+      "Shell": 1,
+      "CSS": 1,
+      "HTML": 1
+    }
+  },
+  {
+    "login": "rfalke",
+    "reposCount": 18,
+    "languageTotals": {
+      "JavaScript": 2,
+      "Makefile": 6,
+      "Python": 6,
+      "C": 2,
+      "Shell": 4,
+      "Perl": 1,
+      "Erlang": 1,
+      "Go": 1,
+      "Java": 7
+    }
+  },
+  {
+    "login": "rhoetsc",
+    "reposCount": 0,
+    "languageTotals": {}
+  },
+  {
+    "login": "robaca",
+    "reposCount": 3,
+    "languageTotals": {
+      "JavaScript": 1,
+      "Java": 1
+    }
+  },
+  {
+    "login": "romanigk",
+    "reposCount": 5,
+    "languageTotals": {
+      "C#": 1,
+      "Dockerfile": 2,
+      "Kotlin": 3
+    }
+  },
+  {
+    "login": "romansey",
+    "reposCount": 6,
+    "languageTotals": {
+      "JavaScript": 3,
+      "CSS": 2,
+      "HTML": 2,
+      "Go": 1,
+      "Dockerfile": 1,
+      "Java": 1,
+      "Shell": 1
+    }
+  },
+  {
+    "login": "rueckemann",
+    "reposCount": 7,
+    "languageTotals": {
+      "Java": 4
+    }
+  },
+  {
+    "login": "s7nio",
+    "reposCount": 26,
+    "languageTotals": {
+      "Java": 13,
+      "HTML": 4,
+      "CSS": 7,
+      "JavaScript": 3,
+      "Shell": 3,
+      "TeX": 1,
+      "PHP": 1,
+      "Python": 1,
+      "Perl": 1,
+      "Ruby": 2
+    }
+  },
+  {
+    "login": "ShirinG",
+    "reposCount": 24,
+    "languageTotals": {
+      "HTML": 10,
+      "JavaScript": 3,
+      "CSS": 4,
+      "R": 7,
+      "Python": 2,
+      "Dockerfile": 5,
+      "Jupyter Notebook": 2,
+      "Ruby": 1,
+      "SCSS": 1,
+      "TeX": 3,
+      "PostScript": 1
+    }
+  },
+  {
+    "login": "thackba",
+    "reposCount": 13,
+    "languageTotals": {
+      "Scala": 3,
+      "Go": 1,
+      "JavaScript": 3,
+      "Java": 4,
+      "HTML": 2,
+      "CSS": 1,
+      "Shell": 1,
+      "Python": 2,
+      "TypeScript": 1,
+      "Makefile": 1,
+      "Kotlin": 3
+    }
+  },
+  {
+    "login": "till1993",
+    "reposCount": 1,
+    "languageTotals": {
+      "Kotlin": 1
+    }
+  },
+  {
+    "login": "tomscholz",
+    "reposCount": 11,
+    "languageTotals": {
+      "Dockerfile": 2,
+      "HTML": 4,
+      "JavaScript": 5,
+      "CSS": 5,
+      "TypeScript": 1,
+      "C#": 1,
+      "PHP": 1,
+      "Shell": 1
+    }
+  },
+  {
+    "login": "ufried",
+    "reposCount": 0,
+    "languageTotals": {}
+  }
+]

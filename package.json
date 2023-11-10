@@ -1,0 +1,11 @@
+{
+  "name": "codecentric-interview",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "node simple-data-basis"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+</head>
+<body>
+<div x-data="{ currentTab: 1 }">
+    <ul>
+        <li @click="currentTab = 1">
+            <button href="#">Aufgabe 1</button>
+        </li>
+        <li @click="currentTab = 2">
+            <button href="#">Aufgabe 2</button>
+        </li>
+        <li @click="currentTab = 3">
+            <button href="#">Aufgabe 3</button>
+        </li>
+    </ul>
+    <div x-data="{ data: [] }" x-init="fetch('data/dataset.json')
+                        .then(response => response.json())
+                        .then(json => data = json)">
+        <div x-show="currentTab === 1">
+            <p>Aufgabe 1:</p>
+            <pre x-text="JSON.stringify(data, null, 2)"></pre>
+        </div>
+
+        <div x-show="currentTab === 2">
+            <p>Aufgabe 2:</p>
+            <template x-for="member in data">
+                <ul>
+                    <div x-text="member.login">
+                    </div>
+                    <ul>
+                        <template x-for="(language, index) in member.languageTotals">
+                            <div x-text="index + ': ' + language">
+                            </div>
+                        </template>
+                    </ul>
+                </ul>
+            </template>
+        </div>
+
+        <div x-show="currentTab === 3"><p>Aufgabe 3:</p></div>
+    </div>
+</div>
+</body>
+</html>
