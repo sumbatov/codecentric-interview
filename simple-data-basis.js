@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const datasetFile = './website/data/dataset.json';
+const datasetFile = './docs/data/dataset.json';
 const securityHeader = {
     headers: {
         'Authorization': 'Bearer ' + process.env.TOKEN
